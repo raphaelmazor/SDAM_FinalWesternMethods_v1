@@ -1,0 +1,256 @@
+sitecode,Class,Region_detail,Region,beta_region,beta_id,ohwm_region,ohwm_id,nwca_region,nwca_id,corps_region,corps_id,Note,lat,long
+76,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,41.99907,-119.34003
+77,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.00054,-119.38972
+78,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.08057,-119.59604
+79,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.08511,-119.61683
+80,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.09296,-119.65202
+81,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.10116,-119.71201
+82,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.10483,-119.73469
+83,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.10752,-119.74735
+75,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.16487,-118.60408
+84,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.18121,-119.97511
+85,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.18488,-119.99065
+86,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.18522,-119.99137
+87,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.19072,-120.00322
+88,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.20023,-120.01082
+93,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,42.32926,-120.85497
+74,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,42.35164,-118.83721
+94,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,42.3915,-121.37127
+843,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.12141,-115.48331
+744,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.12227,-115.47954
+743,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.12477,-115.4978
+742,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.13131,-115.53141
+842,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.13208,-115.5631
+741,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.13926,-115.59671
+740,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.14193,-115.60078
+844,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.18272,-115.54623
+745,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.20457,-115.55507
+845,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.22768,-115.69827
+847,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.24685,-115.58565
+846,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.24929,-115.59612
+746,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.25084,-115.63242
+826,VNA,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.25084,-115.63242
+827,VNA,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.25084,-115.63242
+828,VNA,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.25084,-115.63242
+747,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.25594,-115.68164
+95,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.3687,-119.67022
+96,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.53835,-119.70568
+97,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.588,-119.96394
+98,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.58849,-119.99715
+133,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.61143,-122.11526
+184,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.61834,-122.08235
+147,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.61868,-122.08362
+199,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.62942,-122.35194
+348,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.64249,-122.42834
+349,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.64348,-122.40747
+107,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.64674,-122.19525
+201,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.64912,-122.42476
+350,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.66106,-123.11461
+204,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.66168,-123.12519
+211,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.68937,-122.41305
+353,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.68962,-122.41317
+354,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.69524,-122.93012
+213,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.69535,-122.93059
+356,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.71092,-123.08381
+64,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,43.72509,-119.0021
+63,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.72819,-118.50715
+65,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,43.73016,-119.00668
+62,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.75391,-118.43787
+66,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,43.75846,-119.003
+222,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.75988,-122.93753
+358,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.7604,-122.93735
+61,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.77419,-118.18554
+60,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.77572,-118.18162
+67,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.77722,-119.00016
+57,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.77965,-117.82545
+56,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.77974,-117.8254
+68,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.78412,-118.99939
+55,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.78522,-117.71345
+224,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.79201,-123.13286
+58,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,43.79375,-117.96696
+153,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.79659,-122.56046
+227,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.81263,-122.72755
+229,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.82755,-122.74614
+427,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.84355,-122.68997
+233,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.85648,-122.70171
+238,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.86297,-122.68497
+243,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.89115,-123.19679
+373,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.91382,-123.16544
+748,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.91672,-115.6899
+749,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.92278,-115.6876
+750,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.93199,-115.67025
+99,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,43.96074,-120.74556
+255,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.97129,-122.54663
+256,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.99417,-122.59685
+383,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,43.99944,-122.97526
+382,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.00645,-122.97961
+101,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,44.02051,-120.70044
+102,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,44.02593,-120.70131
+751,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.06286,-115.60294
+752,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.07804,-115.59867
+753,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.07837,-115.59947
+103,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,44.08641,-120.77918
+104,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,44.09433,-120.78623
+105,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,44.14732,-120.82568
+391,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.203,-122.98948
+277,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.23479,-123.40114
+393,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.23895,-123.41121
+290,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.24905,-123.4203
+291,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.2508,-122.8823
+293,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.25167,-122.86263
+394,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.25324,-122.84688
+296,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.26683,-122.87573
+395,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.2824,-122.82162
+129,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.28803,-122.03218
+15,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.28895,-118.97984
+759,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.33487,-115.44218
+0,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.34944,-122.78129
+1,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.37028,-120.5341
+433,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.38992,-123.32309
+757,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.39155,-115.3714
+758,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.39161,-115.3716
+841,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.3922,-115.37103
+136,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.39264,-122.17999
+130,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.39396,-122.17756
+302,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.39506,-123.3236
+120,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.39543,-122.11912
+114,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.39709,-122.12478
+116,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.39901,-122.23802
+112,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.400818,-122.355923
+142,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.40272,-122.32603
+840,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.40306,-115.35918
+176,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.40307,-122.08722
+756,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.40365,-115.35851
+141,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.40413,-122.31182
+127,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.40829,-122.21814
+431,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.409251,-123.331845
+424,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.41079,-123.34331
+432,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.41081,-123.33764
+160,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.4151,-122.03959
+754,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.4188,-115.3131
+755,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.41951,-115.31321
+115,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.42895,-121.8749
+54,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,USACE Arid West Region,7,,44.43486,-118.15735
+2,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.44382,-120.46974
+3,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.44571,-120.4689
+5,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.45855,-120.44381
+7,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.48584,-120.39822
+8,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.49312,-120.39333
+9,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.5081,-120.37527
+38,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.52053,-117.84316
+106,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.522,-121.9944
+37,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.52403,-117.84061
+36,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.52561,-117.84407
+53,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.5278,-118.31679
+10,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.52844,-120.36145
+48,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.53379,-118.5818
+49,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.53495,-118.58838
+47,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.54166,-118.53875
+16,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.54368,-119.05699
+17,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.55917,-119.08483
+18,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.55963,-119.08498
+35,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.56219,-117.84875
+50,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.57602,-118.47093
+51,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.57826,-118.4381
+52,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.57916,-118.44289
+430,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.58888,-123.3165
+429,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.591331,-123.310949
+34,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.59635,-117.8564
+33,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.60154,-117.85836
+32,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.60485,-117.85884
+46,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.61219,-118.47958
+45,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.6343,-118.45863
+307,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.64521,-123.27825
+193,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.65164,-121.94846
+41,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.65918,-118.27415
+40,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.66576,-118.25273
+29,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.67218,-117.97961
+42,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.6738,-118.35689
+30,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.67478,-117.98775
+39,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.67637,-118.23494
+31,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.68816,-118.01882
+425,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.71386,-123.3274
+399,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.71422,-123.32855
+402,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.71813,-123.33069
+426,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.7194,-123.32548
+118,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.72491,-122.2507
+143,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.72705,-122.25266
+113,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.75653,-122.30584
+12,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.91041,-119.70325
+13,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.95429,-119.71244
+19,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.95712,-118.98797
+411,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.96185,-123.25128
+14,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,44.99478,-119.71346
+182,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.05848,-123.67855
+137,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.08608,-122.05639
+417,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.1117,-123.03256
+119,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.11633,-122.0755
+23,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.16847,-118.66867
+22,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.17097,-118.67978
+21,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.17162,-118.6843
+20,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.17308,-118.74405
+185,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.17457,-122.16239
+26,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.175,-118.62984
+124,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.17566,-122.16295
+25,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.17679,-118.62569
+131,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.19466,-122.19229
+27,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.23072,-118.46338
+28,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.2316,-118.4616
+334,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.24968,-122.89248
+335,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.25155,-122.89331
+336,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,45.25174,-122.89781
+803,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,46.19894,-123.29357
+722,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,46.20208,-123.29405
+801,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,46.20896,-123.28302
+800,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,46.2129,-123.29337
+720,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,46.21464,-123.29617
+723,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,46.21503,-123.29454
+724,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,46.22933,-123.29079
+725,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,46.23364,-123.27167
+854,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.21558,-116.81625
+853,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.25057,-116.76628
+856,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,47.28646,-116.95896
+855,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,47.29104,-116.95876
+857,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,47.30836,-116.97974
+852,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.34744,-116.71867
+851,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.34957,-116.7353
+850,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.3497,-116.73544
+701,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.36793,-122.0918
+765,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,47.41484,-117.54502
+763,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,47.42786,-117.54309
+713,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.43116,-122.98071
+714,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.43161,-122.9831
+712,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.43306,-122.97601
+702,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.43418,-121.97229
+762,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,XER,5,USACE Arid West Region,7,,47.43457,-117.54594
+711,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.43924,-122.95941
+710,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.4397,-122.94479
+709,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.44029,-122.93584
+708,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.47025,-122.86085
+706,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.48909,-122.85938
+707,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.48921,-122.85963
+704,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.49825,-122.84756
+705,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.49915,-122.85064
+717,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.50995,-123.14663
+718,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.51093,-123.15
+716,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.51377,-123.14085
+730,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.58446,-123.09101
+715,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.59156,-123.11531
+731,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.59242,-123.18806
+732,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.59639,-123.17448
+818,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.62627,-116.34932
+819,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.63396,-116.36034
+825,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.65488,-116.35966
+824,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.67303,-116.35988
+823,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.67741,-116.3633
+820,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.7136,-116.67728
+817,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.72382,-116.65646
+822,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.73099,-116.39571
+816,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.74528,-116.61634
+821,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,47.76212,-116.59772
+815,I,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,48.23594,-116.11012
+814,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,48.26963,-116.12272
+813,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,48.27187,-116.12718
+812,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,48.30391,-116.16464
+810,P,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,48.30449,-116.27377
+811,E,PNW,PNW,Pacific Northwest,7,Pacific Northwest,5,WMT,4,"USACE Western Mountains, Valleys, and Coast Region",6,,48.33018,-116.23891
